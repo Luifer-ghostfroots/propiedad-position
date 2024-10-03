@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagenes/imagen.1.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 100vh;
+    transition: background-imagen 0.5s;
+}
+table tr td div {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+    margin: 5px;
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    transition: transform 0.3s;
+    font-size: 0;
+}
+
+table tr td div:hover {
+    transform: scale(1.1);
+} 
+#foto1 {
+    background-image: url(imagenes/imagen1.jpg);
+} 
+#foto2 {
+    background-image: url(imagenes/imagen2.jpg);
+} 
+#foto3 {
+    background-image: url(imagenes/imagen3.jpg);
+} 
+#foto4 {
+    background-image: url(imagenes/imagen4.jpg);
+} 
+#foto5 {
+    background-image: url(imagenes/imagen5.jpg);
+} 
+#foto6 {
+    background-image: url(imagenes/imagen6.jpg);
+} 
+#foto7 {
+    background-image: url(imagenes/imagen7.jpg);
+} 
+#foto8 {
+    background-image: url(imagenes/imagen8.jpg);
+} 
+#foto9 {
+    background-image: url(imagenes/imagen9.jpg);
+} 
+#foto10 {
+    background-image: url(imagenes/imagen10.jpg);
+} 
+#foto11 {
+    background-image: url(imagenes/imagen11.jpg);
+} 
+#foto12 {
+    background-image: url(imagenes/imagen12.jpg);
+} 
+#foto13 {
+    background-image: url(imagenes/imagen13.jpg);
+} 
+#foto14 {
+    background-image: url(imagenes/imagen14.jpg);
+} 
+#foto15 {
+    background-image: url(imagenes/imagen15.jpg);
+}
+#foto16 {
+    background-image: url(imagenes/imagen16.jpg);
+}
+#foto17 {
+    background-image: url(imagenes/imagen17.webp);
+}
+#foto18 {
+    background-image: url(imagenes/imagen18.jpg);
+}
+ #foto19 {
+    background-image: url(imagenes/imagen19.png);
+}
+#foto20 {
+    background-image: url(imagenes/imagen20.png);
+} 
