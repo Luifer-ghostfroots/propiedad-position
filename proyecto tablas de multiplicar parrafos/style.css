@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+
+}
+div{
+    text-align: center;
+    background-color:rgb(65, 61, 61) ;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2px;
+}
+h1{
+    margin-bottom: 20px;
+
+}
+.texto{
+    width: 25px;
+    margin-top: 10px;
+}
+
+p{
+    padding: 5px;
+    background-color: dimgray;
+    margin: 2px;
+    width: 350px;
+    border-radius: 4px;
+    
+
+}
+button{
+    background-color: gold;
+    border-radius: 5px;
+    height: 30px;
+    width: 65px;
+}
